@@ -1,0 +1,14 @@
+{
+  "name": "tootether",
+  "version": "1.0.0",
+  "devDependencies": {
+    "typescript": "^4.9.5"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "masto": "^5.8.0",
+    "web3": "^1.8.2",
+    "@ethereum_net_stats/readable_time": "^1.0.7"
+  },
+  "type": "module"
+}

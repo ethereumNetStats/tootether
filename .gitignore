@@ -1,0 +1,7 @@
+/.idea/
+/node_modules/
+/.env
+/tootether.iml
+/tootether.js
+/projectModule/objToText.js
+/projectModule/unitConvert.js
